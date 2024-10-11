@@ -1,0 +1,64 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "student_name": "Nguyễn Văn A",
+      "email": "a@example.com",
+      "address": "Hà Nội, Việt Nam",
+      "phone": "0123456789",
+      "status": true,
+      "created_at": "2023-01-01"
+    },
+    {
+      "id": 3,
+      "student_name": "Lê Văn C",
+      "email": "c@example.com",
+      "address": "Đà Nẵng, Việt Nam",
+      "phone": "0123456790",
+      "status": false,
+      "created_at": "2023-01-03"
+    },
+    {
+      "id": 4,
+      "student_name": "Phạm Thị D",
+      "email": "d@example.com",
+      "address": "Cần Thơ, Việt Nam",
+      "phone": "0987654312",
+      "status": true,
+      "created_at": "2023-01-04"
+    },
+    {
+      "id": 5,
+      "student_name": "Ngô Văn E",
+      "email": "e@example.com",
+      "address": "Nha Trang, Việt Nam",
+      "phone": "0123456781",
+      "status": false,
+      "created_at": "2023-01-05"
+    },
+    {
+      "student_name": "minh thu",
+      "email": "minhthu@gmail.com",
+      "address": "thanh hóa",
+      "phone": "0837346377",
+      "status": true,
+      "id": 6
+    }
+  ],
+  "students2": [
+    {
+      "id": 1,
+      "name": "Nguyen Van A",
+      "email": "a@mail.com",
+      "address": "Thanh Xuân, Hà Nội",
+      "phone": "+841 613 2097"
+    },
+    {
+      "id": 2,
+      "name": "Nguyen Van B",
+      "email": "b@mail.com",
+      "address": "Thành phố Hồ Chí Minh",
+      "phone": "+841 613 2097"
+    }
+  ]
+}
